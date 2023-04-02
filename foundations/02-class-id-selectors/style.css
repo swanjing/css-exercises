@@ -1,0 +1,20 @@
+.odd{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#one{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.cool{
+    font-size: 24px;
+}
+
+#another{
+    /* light green background, a font size of 24px, and bold */
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
